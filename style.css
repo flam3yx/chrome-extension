@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 10px;
     font-family: Arial, Helvetica, sans-serif;
-    min-height: 400px;
+    min-width: 400px;
 }
 
 /*
@@ -49,6 +49,7 @@ li {
     background-color: beige;
     border-radius: 5px;
     padding: 2px 10px;
+    width: fit-content;
 }
 
 li a {
