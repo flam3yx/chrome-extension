@@ -1,6 +1,7 @@
 // function saveLead() {
 //     console.log("Button clicked from onclick attribute");
 // }
+// add onclick in the html to work
 
 /*******************************************************************/
 
